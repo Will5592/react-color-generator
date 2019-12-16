@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9efd8646c2b3ab65aad3065aa8afd92e",
+    "revision": "eaaf427961857ff68b30e2584c630875",
     "url": "/react-color-generator/index.html"
   },
   {
-    "revision": "2ff70ad5be82081ba490",
+    "revision": "f0f15e5f09a939e2d9d9",
     "url": "/react-color-generator/static/css/main.82f1a892.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-color-generator/static/js/2.2aab25e2.chunk.js.LICENSE"
   },
   {
-    "revision": "2ff70ad5be82081ba490",
-    "url": "/react-color-generator/static/js/main.116a3d26.chunk.js"
+    "revision": "f0f15e5f09a939e2d9d9",
+    "url": "/react-color-generator/static/js/main.99677203.chunk.js"
   },
   {
     "revision": "497da36d1d0e99abb37d",
