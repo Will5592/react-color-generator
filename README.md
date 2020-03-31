@@ -6,4 +6,4 @@ Made using React, this is the same project as my vanilla generator, rebuilt in R
 
 The only difference is a header.
 
-Note: This was my first React project, and does not make use of Reacts component based structure. I have used this with my Budget Tracker project, also included in my GH account.
+Note: This was my first React project, and does not make use of Reacts component based structure. I have used components with my Budget Tracker project, also included in my GH account.
